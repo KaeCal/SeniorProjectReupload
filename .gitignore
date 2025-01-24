@@ -1,5 +1,5 @@
 #Profiles
-images/profiles
+images/profiles/
 
 #Design icons
 images/icons/StudioBuddyLogo.PNG
@@ -7,4 +7,4 @@ images/icons/StudioBuddyLogo.PNG
 images/icons/StudioBuddyLogo3.PNG
 
 #PDF Files
-documents
+documents/*.pdf
