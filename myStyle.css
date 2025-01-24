@@ -1,0 +1,23 @@
+#bar2 {background: black; width: 100%;}
+#content {width: 100%; padding: 30px 2.5%; display: block; background: white; border: 1px solid white; border-left: none; border-right: none;}
+
+body{
+font-family: Calibri (Body);
+font-size: 16px;
+color: black;
+}
+h1{
+font-family: Calibri (Body);
+font-size: 26px;
+color: black;
+}
+h2{
+font-family: Calibri (Body);
+font-size: 21px;
+color: black;
+}
+h3{
+    font-family: Calibri (Body);
+    font-size: 18px;
+    color: black;
+}
