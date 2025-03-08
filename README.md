@@ -1,3 +1,15 @@
-# SeniorProjectReupload
-Due to student account removal (i.e. no access to Domain and URL address), I am reuploading this project.  
-Project Website: https://kaecal.github.io/SeniorProjectReupload/  
+# SeniorProjectReupload  
+## Disclaimer  
+Please note that access to the original domain/URL for this project is not available, as the website was originally hosted on the school’s server. To ensure continued accessibility, all project documentation, demos, and related materials have been posted on GitHub. This allows viewers to explore the project’s features, review the code, and understand its implementation despite the hosting limitations.  
+  
+## Senior Project Website - https://kaecal.github.io/SeniorProjectReupload/  
+This website serves as a central repository for the senior project documentation and demos, providing a showcase of the development process and final outcomes. The website stages the full scope of the project, including its design process, technical implementations, and challenges faced during development. It provides comprehensive documentation detailing the architecture, technologies used, and system functionalities. Additionally, a demo is available to illustrate key features and interactions, offering an in-depth look at the project’s success in enhancing music education through technology.  
+  
+## Senior Project Mobile Application - https://github.com/worthanwill/SP12-StudioBuddy/  
+The featured project focused on a mobile application designed to support the music department by enhancing student-professor interactions and streamlining music exercises. The project incorporated essential features such as user authentication (login/registration), distinct professor and student landing pages, and a “studio semesters” system, which enabled professors to manage uploaded exercises and track student progress effectively.  
+  
+One of the key achievements of the project was the successful integration of a scaling tempo algorithm, implemented using the Gold Method, allowing for dynamic tempo adjustments in music exercises. This feature allowed students to practice at gradually increasing speeds, helping them improve their technical skills at a controlled pace. The platform also facilitated seamless merging of student and professor views, ensuring a cohesive experience across different user roles. Additionally, dedicated landing pages for exercises provided a structured way for students to access assignments, submit recordings, and receive feedback.  
+  
+Beyond its core functionalities, the project emphasized usability and scalability. The interface was designed with user experience in mind, ensuring that both students and professors could easily navigate the application. The backend was developed to handle multiple studio semesters, exercise uploads, and real-time updates efficiently. By implementing these features, the application provided a framework that could be expanded upon for future improvements on the practice experience.  
+  
+This project also involved various challenges, such as optimizing data management for exercise submissions and ensuring smooth communication between student and professor pages. Through iterative development and testing, these challenges were addressed to create a reliable and user-friendly application. The use of modern development practices and structured documentation allowed for a well-organized approach to problem-solving throughout the project lifecycle. Due to time constraints, our team set up a solid framework with clean code to ensure easy maintenance for the next team that continues the project.  
