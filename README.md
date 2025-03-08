@@ -1,11 +1,11 @@
 # SeniorProjectReupload  
-## Disclaimer  
+### Disclaimer  
 Please note that access to the original domain/URL for this project is not available, as the website was originally hosted on the school’s server. To ensure continued accessibility, all project documentation, demos, and related materials have been posted on GitHub. This allows viewers to explore the project’s features, review the code, and understand its implementation despite the hosting limitations.  
   
-## Senior Project Website - https://kaecal.github.io/SeniorProjectReupload/  
+### Senior Project Website - https://kaecal.github.io/SeniorProjectReupload/  
 This website serves as a central repository for the senior project documentation and demos, providing a showcase of the development process and final outcomes. The website stages the full scope of the project, including its design process, technical implementations, and challenges faced during development. It provides comprehensive documentation detailing the architecture, technologies used, and system functionalities. Additionally, a demo is available to illustrate key features and interactions, offering an in-depth look at the project’s success in enhancing music education through technology.  
   
-## Senior Project Mobile Application - https://github.com/worthanwill/SP12-StudioBuddy/  
+### Senior Project Mobile Application - https://github.com/worthanwill/SP12-StudioBuddy/  
 The featured project focused on a mobile application designed to support the music department by enhancing student-professor interactions and streamlining music exercises. The project incorporated essential features such as user authentication (login/registration), distinct professor and student landing pages, and a “studio semesters” system, which enabled professors to manage uploaded exercises and track student progress effectively.  
   
 One of the key achievements of the project was the successful integration of a scaling tempo algorithm, implemented using the Gold Method, allowing for dynamic tempo adjustments in music exercises. This feature allowed students to practice at gradually increasing speeds, helping them improve their technical skills at a controlled pace. The platform also facilitated seamless merging of student and professor views, ensuring a cohesive experience across different user roles. Additionally, dedicated landing pages for exercises provided a structured way for students to access assignments, submit recordings, and receive feedback.  
